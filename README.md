@@ -1,4 +1,4 @@
 # repo1
 my first github repositry
 <br>
-author - prakhar saxena
+author - prakhar saxena(vit bhopal)
